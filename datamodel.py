@@ -2,6 +2,7 @@ import json
 from typing import Dict, List
 from json import JSONEncoder
 
+
 Time = int
 Symbol = str
 Product = str
